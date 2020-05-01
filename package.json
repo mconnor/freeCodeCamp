@@ -67,7 +67,7 @@
     "history": "^3.2.1",
     "invariant": "^2.2.1",
     "jade": "^1.11.0",
-    "jquery": "~3.1.1",
+    "jquery": "~3.5.0",
     "jshint": "~2.9.4",
     "jsonlint-cli": "^1.0.1",
     "lightbox2": "~2.8.2",
@@ -123,7 +123,7 @@
     "reselect": "^2.0.2",
     "rx": "~4.0.8",
     "sanitize-html": "^1.11.1",
-    "snyk": "^1.19.1",
+    "snyk": "^1.316.1",
     "store": "https://github.com/berkeleytrue/store.js.git#feature/noop-server",
     "uuid": "^3.0.1",
     "validator": "^6.0.0"
