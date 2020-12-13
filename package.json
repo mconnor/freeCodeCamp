@@ -56,7 +56,7 @@
     "express": "^4.13.3",
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
-    "express-state": "^1.2.0",
+    "express-state": "^2.0.0",
     "express-validator": "^3.0.0",
     "fetchr": "~0.5.12",
     "font-awesome": "~4.5.0",
