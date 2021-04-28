@@ -57,7 +57,7 @@
     "express-flash": "~0.0.2",
     "express-session": "^1.12.1",
     "express-state": "^1.2.0",
-    "express-validator": "^3.0.0",
+    "express-validator": "^6.5.0",
     "fetchr": "~0.5.12",
     "font-awesome": "~4.5.0",
     "frameguard": "^3.0.0",
@@ -122,11 +122,11 @@
     "request": "^2.65.0",
     "reselect": "^2.0.2",
     "rx": "~4.0.8",
-    "sanitize-html": "^1.11.1",
+    "sanitize-html": "^2.0.0",
     "snyk": "^1.19.1",
     "store": "https://github.com/berkeleytrue/store.js.git#feature/noop-server",
     "uuid": "^3.0.1",
-    "validator": "^6.0.0"
+    "validator": "^13.6.0"
   },
   "devDependencies": {
     "adler32": "~0.1.7",
